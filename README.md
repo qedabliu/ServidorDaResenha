@@ -1,0 +1,2 @@
+# ServidorDaResenha
+Apenas resenhudos
