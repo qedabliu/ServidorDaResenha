@@ -1,2 +1,2 @@
-# ServidorDaResenha
-Apenas resenhudos
+# ProjetoDescontinuado
+servidor via github's server
